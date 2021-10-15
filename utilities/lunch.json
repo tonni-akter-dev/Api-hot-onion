@@ -4,42 +4,48 @@
       "title": "Eggs Benedit",
       "desc": "Healthy meat plan",
       "price": "$23.99",
-      "key": 1
+      "key": 1,
+       "categories":"Lunch"
     },
     {
       "img": "https://i.ibb.co/7vVMCTf/lunch5.png",
       "title": "fried chicken bento",
       "desc": "How we dream about our future",
       "price": "$9.99",
-      "key": 2
+      "key": 2,
+       "categories":"Lunch"
     },
     {
       "img": "https://i.ibb.co/gZNZkPR/lunch3.png",
       "title": "Tarragon rubbed salmon",
       "desc": "How we dream about our future",
       "price": "$6.99",
-      "key": 3
+      "key": 3,
+       "categories":"Lunch"
     },
     {
       "img": "https://i.ibb.co/ZmHYhXm/lunch4.png",
       "title": "Indian lunch",
       "desc": "How we dream about our future",
       "price": "$8.99",
-      "key": 4
+      "key": 4,
+       "categories":"Lunch"
     },
     {
       "img": "https://i.ibb.co/rf05Xw6/lunch1.png",
       "title": "Beaf steck",
       "desc": "How we dream about our future",
       "price": "$15.99",
-      "key": 5
+      "key": 5,
+       "categories":"Lunch"
     },
     {
       "img": "https://i.ibb.co/8nCCmKf/lunch2.png",
       "title": "Honey soy glazed",
       "desc": "How we dream about our future",
       "price": "$7.99",
-      "key": 6
+      "key": 6,
+       "categories":"Lunch"
     }
   ]
 
