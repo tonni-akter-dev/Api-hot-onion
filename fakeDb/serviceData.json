@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "serviceName": "Psychiatry",
+      "discription": "Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.",
+      "image": "http://themetechmount.com/html/delmont/images/services/01.jpg"
+    },
+    {
+      "id": 2,
+      "serviceName": "Cardiology",
+      "discription": " Our Cardiology hospital utilizes state-of-the-art technology and employs a team of true experts.",
+      "image": "http://themetechmount.com/html/delmont/images/services/02.jpg"
+    },
+    {
+      "id": 3,
+      "serviceName": "Speech therapy",
+      "discription": "A physical therapist can put together a plan of care to help a patient regain or strengthen use of muscles and joints.",
+      "image": "https://media.istockphoto.com/photos/speech-therapy-with-children-picture-id1283399683?b=1&k=20&m=1283399683&s=170667a&w=0&h=BdSOfIXbyOrLfAnnWF287D_Z2tGPkLHpcMgXQ3LQ1b8="
+    },
+    {
+      "id": 4,
+      "serviceName": "Cancer Care",
+      "discription": "UCLA Health patients can expect comprehensive and individualized cancer care, delivered in convenient locations across Southern California.",
+
+      "image": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_016000_640x360/public/images/CancerServices.webp?h=119335f7&itok=I0ZIFKYT"
+    },
+    {
+      "id": 5,
+      "serviceName": "Care from home",
+      "discription": "Home health aides can help the patient with his or her basic personal needs such as getting out of bed, walking, bathing, and dressing.",
+      "image": "https://images.unsplash.com/photo-1576765974102-b756026ecee3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "serviceName": "Pediatrics",
+      "discription": "At UCLA Health, we partner with families to deliver expert, compassionate care to infants, children and teens.",
+      "image": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_016000_640x360/public/images/GeneralPediatrics.webp?h=ada05aa9&itok=fmXAyhpx"
+    }
+   
+  ]
+
+
+
+  
