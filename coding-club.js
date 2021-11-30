@@ -1,4 +1,4 @@
-[
+const courses=[
     {
       "img": "https://i.ibb.co/gjwSMCn/2.png",
       "title": "The Creative Javascript",
