@@ -1,0 +1,26 @@
+[
+    {
+      "id": 0,
+      "title": "UNI",
+      "icon": "uniswap",
+      "tag": "uniswap"
+    },
+    {
+      "id": 0,
+      "title": "RBC",
+      "icon": "polygon",
+      "tag": "rubic"
+    },
+    {
+      "id": 0,
+      "title": "USDT",
+      "icon": "polygon",
+      "tag": "Tether USD"
+    },
+    {
+      "id": 0,
+      "title": "BNB",
+      "icon": "uniswap",
+      "tag": "Binance Coin"
+    }
+  ]
