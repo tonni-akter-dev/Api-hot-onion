@@ -73,56 +73,6 @@
       "livesite": "https://feliciano-food-website.netlify.app/",
       "clientcode": "https://github.com/tonni-akter-dev/feliciano-food-project",
       "id":6
-    },
-    {
-      "img1": "https://i.ibb.co/bFswZwR/red-onion.png",
-      "title": "Red Onion",
-      "details": "This Website help you easily Search your needed Travel Destination.Here you will also take your relevant Family Tour package.You can book your Tour Ticket advance from online.Choose your Favorite Tour package and Hotel Package.Help to you Know Our facilities.Our latest news and special Offer and Discount.You may also take our 24/7 Emergency helpline service.",
-      "livesite": "https://elated-volhard-c59c81.netlify.app/",
-      "clientcode": "https://github.com/tonni-akter-dev/hot-onion-61.5",
-      "id":7
-    },{
-      "img1": "https://i.ibb.co/M7KXMQg/mac-book.png",
-      "title": "MacBook Pro",
-      "details": "This Website help you easily Search your faavourite pottery.Here you will also take your relevant Products.You can Select your product and buy online.You can get 24 hour service.Help to you Know Our facilities.Our latest news and special Offer and Discount",
-      "livesite": "https://assignment-5-live-site-link.netlify.app/",
-      "clientcode": "//github.com/programming-hero-web-course2/mac-book-pro-tonni-akter-dev",
-      "id":8
-    },
-  {
-      "img1": "https://i.ibb.co/pzvMg7N/developer.png",
-      "title": "Developer Portfolio",
-      "details": "This Website help you easily Search your faavourite pottery.Here you will also take your relevant Products.You can Select your product and buy online.You can get 24 hour service.Help to you Know Our facilities.Our latest news and special Offer and Discount",
-      "livesite": "https://developer-blog-assignment-8.netlify.app/",
-      "clientcode": "https://github.com/ProgrammingHeroWC4/the-superhero-direction-tonni-akter-dev",
-      "id":9
-    },
-  {
-      "img1": "https://i.ibb.co/0h2dYsL/food-network.png",
-      "title": "Food Network",
-      "details": "This Website help you easily Search your faavourite pottery.Here you will also take your relevant Products.You can Select your product and buy online.You can get 24 hour service.Help to you Know Our facilities.Our latest news and special Offer and Discount",
-      "livesite": "https://tonni-akter-dev.github.io/food-network/",
-      "clientcode": "https://github.com/tonni-akter-dev/food-network",
-      "id":10
-    },
-  {
-      "img1": "https://i.ibb.co/GRSPpjq/honda.png",
-      "img2": "https://i.ibb.co/dM6rq3S/1.png",
-      "img3": "https://i.ibb.co/vxQNTGz/2.png",
-      "title": "Honda crb",
-      "details": "This Website help you easily Search your faavourite pottery.Here you will also take your relevant Products.You can Select your product and buy online.You can get 24 hour service.Help to you Know Our facilities.Our latest news and special Offer and Discount",
-      "livesite": "https://bikes-cdr.netlify.app/",
-      "clientcode": "https://github.com/programming-hero-web-course2/honda-cbr-bootstrap-assignment-tonni-akter-dev",
-      "id":11
-    },
-  {
-      "img1": "https://i.ibb.co/3WDqzzn/1.png",
-      "img2": "https://i.ibb.co/drgmTVS/3.png",
-      "img3": "https://i.ibb.co/VqsRFfg/2.png",
-      "title": "Presento",
-      "details": "This Website help you easily Search your faavourite pottery.Here you will also take your relevant Products.You can Select your product and buy online.You can get 24 hour service.Help to you Know Our facilities.Our latest news and special Offer and Discount",
-      "livesite": "https://bikes-cdr.netlify.app/",
-      "clientcode": "https://github.com/programming-hero-web-course2/honda-cbr-bootstrap-assignment-tonni-akter-dev",
-      "id":12
     }
+ 
   ]
