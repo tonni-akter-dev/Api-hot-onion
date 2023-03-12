@@ -73,6 +73,20 @@
       "livesite": "https://feliciano-food-website.netlify.app/",
       "clientcode": "https://github.com/tonni-akter-dev/feliciano-food-project",
       "id":6
+    },
+    {
+      "img1": "https://i.ibb.co/n0wNhhC/3.png",
+      "img2": "https://i.ibb.co/h1cvrHy/feliciano.png",
+      "img3": "https://i.ibb.co/khKGS14/1.png",
+      "img4": "https://i.ibb.co/swSvgTy/2.png",
+      "title": "Library Management System",
+      "details": "This project is using for manage library. it can be used in universities for managing their libraries.This website reduce to manage library manually",
+      "userLivesite": "https://library-management-system-user.web.app/",
+      "adminLivesite": "https://library-management-admin.web.app/",
+      "userClientcode": "https://github.com/tonni-akter-dev/library-management-system",
+      "adminClientcode": "https://github.com/afridi-cse/library-management-system-admin",
+      "servercode":"https://github.com/tonni-akter-dev/library_management_system_server",
+      "id":7
     }
  
   ]
